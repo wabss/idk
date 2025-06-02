@@ -1,2 +1,2 @@
-export * from './GameCard/GameCard'
-export * from './CustomButton/CustomButton'
+export * from './GameCard'
+export * from './CustomButton'
